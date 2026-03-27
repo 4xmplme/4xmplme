@@ -13,7 +13,7 @@ education:
   - Master's degree in Computer Science at State Tax University during Sep 2023 – Feb 2025
   - Bachelor's degree in Finance, Banking and Insurance at State Tax University during Sep 2021 – Jun 2023
 additional education:
-  - Front-end course at Mate academy
+  - Full-stack course at Mate academy
 achievements:
   - 5 kyu on Codewars with 400+ Kata Completed
 books:
@@ -24,6 +24,7 @@ participation of charity events:
   - Mate Conf
   - DOU Day Picnic
   - Mate Reunion Golden Hours
+  - Arsenal talantiv
 ```
 
 ## 🔧 Technologies
@@ -32,7 +33,7 @@ participation of charity events:
 ![Frontend](https://skillicons.dev/icons?theme=dark&i=html,css,sass,js,ts,react,redux,nextjs,vite,tailwind,jquery,figma,photoshop)
 
 ### ⚙️ Backend & Database
-![Backend](https://skillicons.dev/icons?theme=dark&i=nodejs,express,php,java,postgresql,sqlite,mongodb)
+![Backend](https://skillicons.dev/icons?theme=dark&i=nodejs,express,nest,postgresql,sqlite,mongodb,php,java)
 
 ### 🛠️ Tools & DevOps
 ![Tools](https://skillicons.dev/icons?theme=dark&i=git,github,vercel,heroku,gulp,jest,cypress,postman,md,wordpress,vscode,webstorm)
